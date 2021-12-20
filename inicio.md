@@ -1,0 +1,1 @@
+olá, esse é o início de um novo projeto pessoal para entendimento da Zendesk
